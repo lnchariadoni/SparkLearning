@@ -1,4 +1,2 @@
-This repo is forked by JerryLead/SparkLearning.
-1-Added new entry from browser directly. 
-2-Added new entry from browser directly. 
+This is update 1 at 10:15 for b1 branch. doing it on browser directly.
 
